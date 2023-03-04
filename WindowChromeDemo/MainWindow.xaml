@@ -8,6 +8,7 @@
         xmlns:fa5="http://schemas.fontawesome.com/icons/"
         WindowStartupLocation="CenterScreen"
         Style="{DynamicResource WindowStyle}"
+        Icon=".\Images\window.ico"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <!--
